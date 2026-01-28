@@ -1,0 +1,8 @@
+summarization_dataset/
+ylenews-fi-2014-2020-selko-par-sent-src/
+train_checkpoints/
+
+__pycache__/
+.ipynb_checkpoints/
+_unsloth_sentencepiece_temp
+unsloth_compiled_cache
